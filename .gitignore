@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+*.iml
+out
+bin/
+target/
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
